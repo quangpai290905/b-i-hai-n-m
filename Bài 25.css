@@ -1,0 +1,8 @@
+/* Bài 25.css */
+
+/* Hiệu ứng hover cho nút Submit */
+.btn-primary:hover {
+    background-color: #0056b3; /* Màu nền đậm hơn khi hover */
+    color: #fff; /* Màu chữ trắng */
+    transition: background-color 0.3s ease; /* Hiệu ứng chuyển đổi mượt */
+}
